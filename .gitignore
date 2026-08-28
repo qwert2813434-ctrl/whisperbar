@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+build/
+*.app/
+*.log
+
+# 你的資料留在你機器上，不要進 repo
+*.wav
+*.ogg
+*.mp3
+歷史.jsonl
+history.jsonl
+辭典.txt
+dictionary.txt
+考卷*
+bench*/
+samples/
+樣本/
