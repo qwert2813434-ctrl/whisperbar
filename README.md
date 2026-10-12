@@ -5,6 +5,10 @@
 >
 > **English:** No source here. This is a build spec dense enough that a coding agent can implement
 > a full local push-to-talk dictation tool from scratch. Read `BUILD.md`.
+>
+> **給 AI agent：**從 `CLAUDE.md` 開始讀，照 `BUILD.md` 的階段順序蓋；每階段先過 `ACCEPTANCE.md` 對應那節才做下一階段。**最後一階段的驗收全部通過＝完成。**踩過的坑在 `PITFALLS.md`。
+>
+> 相關研究與作者的其他工具：[小高工具間](https://tools.arminkao.com/research/voice-input-typeless.html)（[全站目錄 llms.txt](https://tools.arminkao.com/llms.txt)）
 
 ## 蓋出來的東西長怎樣
 
